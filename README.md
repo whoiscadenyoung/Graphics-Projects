@@ -8,11 +8,11 @@ Though the projects were written in Processing 3.8, they have all been tested to
 
 ## Project Overview
 Here is a descriptive list of all the projects contained in this directory
-* interactive_robot_arm: basic 3D simulation of joint movement in Processing with a HashSet to keep track of key presses
-* particle_system: animated, 3D particle system using a GLSL POINT shader to draw "billboarded" shapes
-* parametric_texture_mapping: flat-shaded, texture-mapped 3D shell generated with a parametric equation
-* vogel_spiral: sunflower seeds arranged in 3D according to the vogel spiral with smooth color gradients
-* gradient_ellipse: 2D outline of an ellipse shape with color gradients
-* fractal_circles: 2D model of a fractal series of circles
-* piet_mondrian_generator: nondeterministic art generator using rectangles and a given color palette
-* homicide_visualization: visualizing a data file with a parallel coordinates plot
+* **interactive_robot_arm**: basic 3D simulation of joint movement in Processing using a HashSet to keep track of key presses
+* **particle_system**: animated, 3D particle system using a GLSL POINT shader to draw "billboarded" shapes
+* **parametric_texture_mapping**: flat-shaded, texture-mapped 3D shell generated with a parametric equation
+* **vogel_spiral**: sunflower seeds arranged in 3D according to the vogel spiral with smooth color gradients
+* **gradient_ellipse**: 2D outline of an ellipse shape with color gradients
+* **fractal_circles**: 2D model of a fractal series of circles
+* **piet_mondrian_generator**: nondeterministic art generator using rectangles and a given color palette
+* **homicide_visualization**: visualization of a data file using a parallel coordinates plot
