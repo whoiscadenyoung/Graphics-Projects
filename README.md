@@ -1,5 +1,5 @@
 # Graphics-Projects
-Projects created in Processing for Computer Grahpics
+Projects created in Processing for Computer Graphics (taken in Spring 2021).
 
 ## Description
 This repository contains projects written in the Processing language for a computer graphics course. Processing is a language based on Java that runs in its own IDE and is used to create 2D or 3D graphics and animations. Here is a link to the [Processing](https://processing.org) website.
